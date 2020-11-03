@@ -23,7 +23,7 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 
 ![](/images/add.png)
 
-<img src="./gifs/login.jpg" width ="50%">
+<img src="./images/add.png" width ="50%">
 
 **2. Create a new Repository.**
 
