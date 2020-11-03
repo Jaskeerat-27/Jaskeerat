@@ -21,39 +21,58 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 - You can login to your GitHub account using this [link](https://github.com/login).
 - If you want to create a new account you can use this [link](https://github.com/join?source=login).
 
-![](/images/add.png)
-
-<img src="./images/add.png" width ="50%">
+![](/images/login.png)
 
 **2. Create a new Repository.**
 
+![](/images/repo.gif)
+
 - Once you have logged in to your GitHub account, you can navigate to the top right corner to a '+' sign. You can click it to access the dropdown menu.
+
+![](/images/repo.png)
+
 - To create a new repository you can select `New Repository` from the dropdown menu.
 - Now we need to provide a `Repository name` and we can also provide some brief description about the repository.
 - We need to set the repository to `Public` in order to host our resume on a free GitHub account(a GitHub pro account is required to host a `Private` repository online)
 - Lastly, we can choose to add a README file, which will be automatically created by GitHub in your main directory once you hit `Create Repository` at the bottom of the page.
 
->Insert pic/GIF
-<img src="./gifs/gresume-upload.gif" width ="70%">
-
+![](/images/repocreate.png)
 
 **3. Add your Markdown formatted Resume in the Repository.**
 
-- Once you have created a new repository, you can click on the `Add file` and from the dropdown menu you can either `Create a new file`(use the online markdown editor by GitHub to format the resume online) or you can choose `Upload files'(to upload a markdown formatted .md file).
+![](/images/resume.gif)
+
+- Once you have created a new repository, you can click on the `Add file` and from the dropdown menu you can either `Create a new file`(use the online markdown editor by GitHub to format the resume online) or you can choose `Upload files`(to upload a markdown formatted .md file).
+
+![](/images/add.png)
+
 - Once you choose `Upload files`, you will be directed to a page where you can upload the resume and the `Commit directly to the main branch` option will be selected by default.
 - Now we can click on `Commit changes `and our resume.md will be uploaded in the main branch and we will be redirected to the repository page.
+
+![](/images/resumeupload.png)
+
 - Now we need to rename the resume.md file to `index.md` in order to host it on the GitHub Pages. To do this, we will need to click on the `resume.md` and once opens, we can choose the `Edit this file` option(we can also edit the document online by selecting this option). Now you will be able to change the name to `index.md` and press `Commit Changes` to successfully update the file name.
  
+ ![](/images/name.png)
+
 >Insert pic
 
 **4. Host the Resume online and apply themes**
+
+![](/images/host.gif)
 
 - Once you have renamed the resume file to `index.md`. Now we can go to the `Settings` tab.
 - Once we are in the Settings tab, we will scroll down to the `GitHub Pages` section and for `Source` we will select `main` from the drop-down menu and hit `Save`.
 - Once you hit Save, the resume or index.md file will be hosted online by GitHub Pages. To find the link to the online website generated, we can scroll down again to the `GitHub Pages` section and now we will be able to see the link for the page.
 - If you click on the link, you will be directed to the hosted page.
+
+![](/images/host.png)
+
 - To apply themes to the document. Go to the `Settings` tab and scroll down to `GitHub Pages` section and click on `Choose a theme`, you will be redirected to a theme selection page where themes are displayed and we can simply go through the list and choose the desired theme by clicking on the `Select theme` and then `Commit changes` to successfully save the theme change.
 - Now to view the change, we can go to our `Settings` tab and click on the repository link again and check(sometimes we have to wait some time for the changes to actually occur on the hosted website).
+
+![](/images/themechoose.png)
+
 
 ## Key principles of Modern Technical Writing
 
