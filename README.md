@@ -55,8 +55,6 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
  
  ![](/images/name.png)
 
->Insert pic
-
 **4. Host the Resume online and apply themes**
 
 ![](/images/host.gif)
@@ -76,17 +74,13 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 
 ## Key principles of Modern Technical Writing
 
-Documentation are simple. They don't need a ton of dependencies. They should be fast, portable and accessible to anyone. Static sites are exactly that. That is why they are great for documentation. They can be hosted almost anywhere. No extensive installation, databases nor large-scale software needed to make one.
-
  ***Lightweight Markup Language***
 
-- The syntax for a light markup language is simple and easy to learn. We have formatted our resume in Markdown for hosting on Github, which is the most popular lightweight markup language. 
+- The syntax for a light markup language is simple and easy to learn but it lacks features due to which different 'flavours' of markup language exists. The flavours of markdown essentially add some additional features which can be used accross inconsistent syntax. We have formatted our resume and Readme in Markdown for hosting on Github, which is the most popular lightweight markup language. 
 
 ***Format a document using a Static Website Generator*** 
 
-- Static website generator is what makes the job easy. Provide it with content (lightweight markup file) and a theme (HTML & CSS), and _viola_ it formats into a working website. Maintaining your site becomes effortless making your document in sync with the world in no time.
-
-- `Jekyll` is the generator that Github Pages provides to process static websites. There are 3 ways you can work with Jekyll: [by modifiying settings](https://guides.github.com/features/pages/), forking a theme, or [starting from scratch](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/). Forking a theme was done for this project.
+- Static websites are really easy to create and modify, since it does not require any server-side processing, database or any additional installation. A Static website generator can create a website just using content(lightweight markup) and a theme(HTML and CSS). GitHub pages can use Jekyll tempelates. We can also fork a tempelate and make changes to it. We are hosting our resume on a static website which implies that we can easily make changes to the documention. 
 
 ***Host documentson on a distributed version control system***
 
