@@ -32,6 +32,8 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 - Lastly, we can choose to add a README file, which will be automatically created by GitHub in your main directory once you hit `Create Repository` at the bottom of the page.
 
 >Insert pic/GIF
+<img src="./gifs/gresume-upload.gif" width ="70%">
+
 
 **3. Add your Markdown formatted Resume in the Repository.**
 
