@@ -21,6 +21,8 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 - You can login to your GitHub account using this [link](https://github.com/login).
 - If you want to create a new account you can use this [link](https://github.com/join?source=login).
 
+![Login](/gifs/login.jpg "Philadelphia's Magic Gardens")
+
 <img src="./gifs/login.jpg" width ="50%">
 
 **2. Create a new Repository.**
