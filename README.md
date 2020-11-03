@@ -8,7 +8,7 @@ In this README you can find a tutorial on How to host your Resume on GitHub page
 
 ## Audience
 
-This step-by-step tutorial will help Computer Science students host their resume in markdown format on GitHub Pages for free. We will also discuss some great principles of modern technical writing mentioned in Andrew Etters's book and learn how to edit their resume on the static website, so there is no duplication. 
+This step-by-step tutorial will help Computer Science students host their resume in markdown format on GitHub Pages for free. We assume that the students have no prior experience with Markup language and GitHub. We will also discuss some great principles of modern technical writing mentioned in Andrew Etters's book and learn how to edit their resume on the static website, so there is no duplication. 
 
 # Host your Resume on GitHub Pages
 
