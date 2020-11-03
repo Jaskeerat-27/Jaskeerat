@@ -3,13 +3,14 @@
 Winnipeg, MB  
 jaskee.j@gmail.com |+1-(204) 599-2983
 
-Reliable, proactive and result-oriented student pursuing Bachelors of Science in Computer Science, hands-on experience in supporting management personnel and a solid background in Client Service. Career objective to establish myself in an organization where my knowledge and experience can be shared and enriched.
+Reliable, proactive and result-oriented student pursuing Bachelors of Science in Computer Science, hands-on experience in supporting management personnel and a solid background in Client Service. Career objective to establish myself in an organization where my knowledge and experience can be shared and enriched.BSc. Honours Computer Science | University of Manitoba. 2016 - Present
+BSc. Honours Computer Science Yr 1 | International College of Manitoba. May 2015 - April 2016
 
 ## EDUCATIONAL BACKGROUND
 
-### BSc. Honours Computer Science | University of Manitoba  May. 2016 - Present
+##### BSc. Computer Science Majors | University of Manitoba  May. 2016 - Present
 
-### UTP – Stage 2 | International College of Manitoba May. 2015 – April. 2016 
+##### BSc. Computer Science Year 1 | International College of Manitoba. May 2015 - April 2016
 
 ## TECHNICAL SKILL SET
 
