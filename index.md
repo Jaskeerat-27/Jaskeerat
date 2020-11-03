@@ -9,7 +9,7 @@ Reliable, proactive and result-oriented student pursuing Bachelors of Science in
 
 ### BSc. Honours Computer Science | University of Manitoba  May. 2016 - Present
 
-**UTP – Stage 2 | International College of Manitoba May. 2015 – April. 2016**
+### UTP – Stage 2 | International College of Manitoba May. 2015 – April. 2016 
 
 ## TECHNICAL SKILL SET
 
@@ -56,8 +56,6 @@ Reliable, proactive and result-oriented student pursuing Bachelors of Science in
 ▪ Ensure maintenance of equipment's, facility, & grounds through the use of a Preventive Maintenance Plan based on company standards.
 
 ## Certifications
-
-▪ Certified Ethical Hacker
 
 ▪ CCNA Training Certificate
 
