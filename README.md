@@ -24,7 +24,7 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 **2. Create a new Repository.**
 
 You can find the steps to create a new repository in the GIF below:
-![](/images/repo.GIF)
+![](/images/repo.gif)
 
 - Navigate to the top right corner of the page to a '+' sign. You can click it to access the dropdown menu.
 
@@ -40,7 +40,7 @@ You can find the steps to create a new repository in the GIF below:
 **3. Add your Markdown formatted Resume in the Repository.**
 
 You can find the steps to upload your resume and rename the file in the GIF below:
-![](/images/resume.GIF)
+![](/images/resume.gif)
 
 - Click on the `Add file` and from the dropdown menu you can either `Create a new file`(use the online markdown editor by GitHub to format the resume online) or you can choose `Upload files`(to upload a markdown formatted .md file).
 
@@ -57,7 +57,7 @@ You can find the steps to upload your resume and rename the file in the GIF belo
 **4. Host your Resume online and apply themes**
 
 You can find the steps to host your resume online and apply a theme in the GIF below:
-![](/images/host.GIF)
+![](/images/host.gif)
 
 - Now we can naviagte to the `Settings` tab and scroll down to the `GitHub Pages` section and for `Source`, we will select `main` from the drop-down menu and hit `Save`. Once you hit Save, the resume or index.md file will be hosted online by GitHub Pages.
 - We can scroll down again to the `GitHub Pages` section and now we will be able to see the link for the page to find the link to the online generated website.
