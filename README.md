@@ -1,4 +1,4 @@
-# Learn to Host your Resume on GitHub Pages using some great Modern technical writing principles and tools
+# Learn to Host your Resume on GitHub Pages Using Some Great Modern Technical Writing Principles and Tools
 In this README you can find a tutorial on **How to host your Resume on GitHub pages**. We will refer to Andrew Etters' book, [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) and discuss some great principles of modern technical writing. Additionally we will also discuss some great documentation tools.
 
 ## Prerequisites
