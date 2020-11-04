@@ -24,6 +24,7 @@ Now we will see go through the steps involved in hosting our resume on GitHub Pa
 ![](/images/login.png)
 
 **2. Create a new Repository.**
+
 You can find the steps to create a new repository in the Gif below:
 ![](/images/repo.gif)
 
@@ -39,6 +40,7 @@ You can find the steps to create a new repository in the Gif below:
 ![](/images/repocreate.png)
 
 **3. Add your Markdown formatted Resume in the Repository.**
+
 You can find the steps to upload your resume and rename the file in the Gif below:
 ![](/images/resume.gif)
 
@@ -56,6 +58,7 @@ You can find the steps to upload your resume and rename the file in the Gif belo
  ![](/images/name.png)
 
 **4. Host your Resume online and apply themes**
+
 You can find the steps to host your resume online and apply a theme in the Gif below:
 ![](/images/host.gif)
 
