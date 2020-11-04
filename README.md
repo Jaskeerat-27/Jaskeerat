@@ -81,9 +81,9 @@ You can find the steps to host your resume online and apply a theme in the GIF b
 
 ***Format a document using a Static Website Generator*** 
 
-- Static websites are really easy to create and modify, since it does not require any server-side processing, database or any additional installation. A Static website generator can create a website just using content(lightweight markup) and a theme(HTML and CSS). GitHub pages can use Jekyll tempelates. We can also fork a tempelate and make changes to it. We are hosting our resume on a static website which implies that we can easily make changes to the documention. 
+- Static websites are really easy to create and modify, since it does not require any server-side processing, database or any additional installation. A Static website generator can create a website just using content(lightweight markup) and a theme(HTML and CSS). GitHub pages can use Jekyll templates. We can also fork a template and make changes to it. We are hosting our resume on a static website which implies that we can easily make changes to the documentation. 
 
-***Host documentson on a distributed version control system***
+***Host documentation on a distributed version control system***
 
   - Distributed Version Control system is much more efficient and allows us to work offline. It is also suitable to use when many changes are made concurrently on the same file and it also keeps a record of the development. While hosting our resume, we are storing the Readme file in the same folder as the resume file(index.md), which helps keeping the documentation and code branches in sync. This also ensure that only one documentation is maintained and there are no duplicates.
 
@@ -108,7 +108,7 @@ You can find the steps to host your resume online and apply a theme in the GIF b
 
 #### 1. Why is Markdown better than a word processor?
 
-- Markdown is a simple formatting language and since it is a widely used for creating documentation. We can easily edit a markdown document anytime using any online/offline markdown editor and the document processing is fast since it contains just plain text. Markdown languge also has a shallow learing curve. On the other hand, word documents(.docx) can only be edited in certain softwares like Microsoft Word, and Microsoft Word's HTML export is not suitable for creating websites or documentation. 
+- Markdown is a simple formatting language and since it is a widely used for creating documentation. We can easily edit a markdown document anytime using any online/offline markdown editor and the document processing is fast since it contains just plain text. Markdown language also has a shallow learning curve. On the other hand, word documents(.docx) can only be edited in certain softwares like Microsoft Word, and Microsoft Word's HTML export is not suitable for creating websites or documentation. 
 
 #### 2. Why is my resume not showing up?
 
